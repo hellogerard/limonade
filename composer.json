@@ -1,0 +1,6 @@
+{
+    "name": "hellogerard/limonade",
+    "autoload": {
+        "files": ["lib/limonade.php"]
+    }
+}
